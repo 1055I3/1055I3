@@ -6,7 +6,7 @@ Feel free to look around.
 Don't hesitate to ask any questions.
 Enjoy yourself!
 
-### Projects
+<!-- ### Projects -->
 
 | Project | Keywords |
 | :---------------------------------------------------: | :---------------------------------------------------: |
