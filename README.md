@@ -1,4 +1,4 @@
-## HELLO WORLD! :penguin:
+## Hello, World! :penguin:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Welcome to my Github page!
 Here you will find repositories for various projects that I have been developing.
