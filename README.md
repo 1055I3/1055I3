@@ -6,7 +6,7 @@ Feel free to look around.
 Don't hesitate to ask any questions.
 Enjoy yourself!
 
-# Projects
+### Projects
 
 | Project | Keywords |
 | :---------------------------------------------------: | :---------------------------------------------------: |
@@ -15,16 +15,16 @@ Enjoy yourself!
 | [Applications of Projective Geometry in Computer Science](https://github.com/1055I3/4pp1ic47i0n5_0f_pr0j3c7iv3_630m37ry_in_c0mpu73r_5ci3nc3) | `Matlab`, `Projective Geometry` |
 
 
-# Languages and tools
-![Haskell](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png){width=20%,height=20%}
-![CPP](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png){width=20%,height=20%}
-![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png){width=20%,height=20%}
-![Julia](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png){width=20%,height=20%}
-![Matlab](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png){width=20%,height=20%}
-![SQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png){width=20%,height=20%}
-![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png){width=20%,height=20%}
-![git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png){width=20%,height=20%}
-![terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png){width=20%,height=20%}
+### Languages and tools
+![Haskell](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png){ width=20%,height=20% }
+![CPP](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png){ width=20%,height=20% }
+![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png){ width=20%,height=20% }
+![Julia](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png){ width=20%,height=20% }
+![Matlab](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png){ width=20%,height=20% }
+![SQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png){ width=20%,height=20% }
+![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png){ width=20%,height=20% }
+![git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png){ width=20%,height=20% }
+![terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png){ width=20%,height=20% }
 
 
 [![Miloš's GitHub stats](https://github-readme-stats.vercel.app/api?username=1055I3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
