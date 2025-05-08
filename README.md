@@ -1,16 +1,31 @@
 ## HELLO WORLD! :penguin:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Welcome to my Github page!
-Here you will find repositories of various projects that I have been developing.
+Here you will find repositories for various projects that I have been developing.
 Feel free to look around.
 Don't hesitate to ask any questions.
 Enjoy yourself!
+
+** Projects **
 
 | Project | Keywords |
 | :---------------------------------------------------: | :---------------------------------------------------: |
 | [Codon Usage Based SARS-CoV-2 Protein Classification](https://github.com/1055I3/c0d0n_u5463-8453d_54r5-c0v-2_pr073in_c1455ific47i0n) | `Python`, `Pandas`, `scikit-learn`, `Keras`, `XGBoost`, `Data Mining` |
 | [Suborbital Track](https://github.com/1055I3/5u80r8i741_7r4ck) | `Julia`, `Orbital Mechanics` |
 | [Applications of Projective Geometry in Computer Science](https://github.com/1055I3/4pp1ic47i0n5_0f_pr0j3c7iv3_630m37ry_in_c0mpu73r_5ci3nc3) | `Matlab`, `Projective Geometry` |
+
+
+** Languages and tools **
+![Haskell](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png)
+![CPP](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png)
+![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+![Julia](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png)
+![Matlab](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png)
+![SQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)
+![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)
+![git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
+![terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
+
 
 [![Miloš's GitHub stats](https://github-readme-stats.vercel.app/api?username=1055I3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1055I3&hide_border=true&theme=darcula&layout=compact&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php)](https://github.com/anuraghazra/github-readme-stats)
