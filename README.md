@@ -1,6 +1,6 @@
 ## HELLO WORLD! :penguin:
 
-&nbsp; Welcome to my Github page!
+&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my Github page!
 Here you will find repositories of various projects that I have been developing.
 Feel free to look around.
 Don't hesitate to ask any questions.
