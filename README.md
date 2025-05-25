@@ -28,7 +28,7 @@ Enjoy yourself!
 -->
 
 [![Miloš's GitHub stats](https://github-readme-stats.vercel.app/api?username=1055I3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1055I3&hide_border=true&theme=darcula&layout=compact&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,cmake,glsl&exclude_repo=57h_574r6473_313m3n7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1055I3&hide_border=true&theme=darcula&layout=compact&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,cmake,glsl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
