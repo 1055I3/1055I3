@@ -10,8 +10,8 @@ Enjoy yourself!
 
 | Project | Keywords |
 | :---------------------------------------------------: | :---------------------------------------------------: |
-| [Suborbital Track](https://github.com/1055I3/5u80r8i741_7r4ck) | `Julia`, `Orbital Mechanics`, `Kinematics`, `Simulation`, `Data Visualization` |
-| [Differential Evolution](https://github.com/1055I3/differential_evolution) | `Julia`, `Global Optimization`, `Parallel Computing`, `Engineering Benchmarks` |
+| [Suborbital Track](https://github.com/1055I3/5u80r8i741_7r4ck) | `Julia`, `Orbital Mechanics`, `Simulation`, `Data Visualization` |
+| [Differential Evolution](https://github.com/1055I3/differential_evolution) | `Julia`, `Global Optimization`, `Parallel Computing`, `Benchmarks` |
 | [ProtSeq Retriever](https://github.com/1055I3/protseq_retriever) | `Python`, `Bioinformatics`, `API`, `Data Retrieval`, `Embeddings`, `RAG` |
 | [Codon Usage Based SARS-CoV-2 Protein Classification](https://github.com/1055I3/c0d0n_u5463-8453d_54r5-c0v-2_pr073in_c1455ific47i0n) | `Python`, `Pandas`, `scikit-learn`, `Keras`, `XGBoost`, `Data Mining` |
 | [Applications of Projective Geometry in Computer Science](https://github.com/1055I3/4pp1ic47i0n5_0f_pr0j3c7iv3_630m37ry_in_c0mpu73r_5ci3nc3) | `Matlab`, `Projective Geometry`, `3D Reconstruction`, `Camera Calibration` |
